@@ -8,6 +8,7 @@ https://www.redhat.com/pt-br/topics/devops
 
 ## Indicação de Livros
 Caso goste de livros, indico fortemente as seguintes leituras:
+
 anual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas
 https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697
 
