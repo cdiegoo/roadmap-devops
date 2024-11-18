@@ -107,7 +107,7 @@ Crie um pipeline CI/CD completo para uma aplicação web simples (ex.: um aplica
 
 Este roadmap cobre o básico para um profissional júnior começar a se candidatar a vagas.  
 
-Um profissional focado em DevOps não precisa, necessariamente, saber desenvolver sistemas, mas, caso saiba, será um enorme diferencial. Isso pode destacá-lo no mercado, embora não seja obrigatório.
+Um profissional focado em DevOps não precisa saber desenvolver sistemas, mas ter esse conhecimento pode ser um enorme diferencial no mercado, embora não seja obrigatório.
 
 Se tiver dúvidas, entre em contato para conversarmos! :)  
 
