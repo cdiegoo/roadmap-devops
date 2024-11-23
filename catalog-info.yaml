@@ -4,7 +4,7 @@ metadata:
   name: Roadmap DevOps
   description: Um roadmap para Sandy e Junior
   # Example for optional annotations
-  # annotations:
+  annotations:
     github.com/project-slug: cdiegoo/roadmap-devops
     backstage.io/techdocs-ref: dir:.
 spec:
