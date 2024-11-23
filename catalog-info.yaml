@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Roadmap DevOps
+  description: Um roadmap para Sandy & Junior
+  # Example for optional annotations
+  # annotations:
+    github.com/project-slug: cdiegoo/roadmap-devops
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  owner: cdiegoo
+  lifecycle: experimental
