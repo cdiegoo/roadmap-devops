@@ -1,9 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Roadmap DevOps
+  name: roadmap-devops  # Nome ajustado para ser válido
   description: Um roadmap para Sandy e Junior
-  # Example for optional annotations
   annotations:
     github.com/project-slug: cdiegoo/roadmap-devops
     backstage.io/techdocs-ref: dir:.
