@@ -52,6 +52,8 @@ Se você gosta de livros, aqui estão algumas recomendações valiosas:
 
 Após entender o que é DevOps, além de aprender mais sobre Cloud, plataformas e SRE, recomendo seguir este plano de estudos:
 
+- **Cloud** (sugiro AWS)
+
 - **Git**
 
 - **CI/CD**
@@ -61,12 +63,15 @@ Após entender o que é DevOps, além de aprender mais sobre Cloud, plataformas 
 
 - **Infraestrutura como Código (IaC)**  
   - Terraform
+  - Ansible
 
 - **Linux**
 
 - **Docker**
 
 - **Kubernetes**
+
+- **Monitoramento e Observabilidade**
 
 - **Scripting**  
   - Python  
